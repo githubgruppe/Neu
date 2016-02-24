@@ -26,3 +26,7 @@ git remote -v
 # Verifizierung
 origin  https://github.com/user/repo.git (fetch)
 origin  https://github.com/user/repo.git (push)
+
+
+-----------------------------------------------
+git config --global http.proxy 172.17.1.1:3128 
